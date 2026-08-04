@@ -13,7 +13,7 @@
 <h2 align="center">My stack :man_technologist:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,postgres,mongodb,git,postman,docker,kafka,redis,golang,nestjs,angular,tailwind" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,git,postman,docker,kafka,redis,golang,typescript,nestjs,angular,tailwind" />
   </a>
 </p>
 
